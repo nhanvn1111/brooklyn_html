@@ -1,0 +1,66 @@
+/*
+* Brooklyn Template Colors 
+* Copyright 2013, UNITED THEMES
+* www.unitedthemes.com
+*/
+::-moz-selection  {
+	color: #FFFFFF;
+	background: #c0392b;
+}
+::selection {
+	color: #FFFFFF;
+	background:#c0392b;
+}
+a { 
+	color: #c0392b; 
+}
+.selected {
+	color: #c0392b !important;
+}
+strong { color: #c0392b; }
+blockquote, blockquote p { color: #c0392b; }
+.icons-ul i { color:#c0392b; }
+.ha-header nav a:hover {
+	color: #c0392b;
+}
+.hero-title span {
+	color:#c0392b;
+}
+.about-icon {
+	background:#c0392b;
+}
+.info h3 {
+	color:#c0392b;
+}
+.cta-section {
+	background:#c0392b !important;
+}
+.contact-wrap h3 {
+	color:#c0392b;
+}
+.social-title {
+	color:#c0392b;
+}
+.count {
+	color:#c0392b;
+}
+.client-section {
+	background:#c0392b !important;	
+}
+.footer i {
+	color:#c0392b;
+}
+.copyright a:hover {
+	color:#c0392b;
+}
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+	background:#c0392b;
+}
+.social-link:hover .social-icon,
+.portfolio-caption {
+	background:rgb(192, 57, 43);
+	background:rgba(192, 57, 43, 0.85);
+}
