@@ -1,3 +1,3 @@
 <?php
 
-header('Location: blue/index.html');
+header('Location: blue');
